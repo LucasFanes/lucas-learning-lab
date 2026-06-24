@@ -109,3 +109,15 @@ Gera duas matrizes numéricas randômicas usando `randrange` e computa operaçõ
 
 ### 34. Vetores Dinâmicos e List Comprehension (`codigo_engenharia_34.py`)
 Demonstra o uso avançado de compreensões de lista em Python para preencher vetores dinâmicos com progressões numéricas, exibindo dados estatísticos com `min()`, `max()` e `sum()`.
+
+### 35. Calculadora de Áreas Geométrica Interativa (`codigo_engenharia_35.py`)
+Um programa que utiliza funções para calcular de forma interativa a área de diferentes formas geométricas (Círculo, Triângulo e Retângulo) através de um menu, com critério de parada quando o usuário digita "fim".
+
+### 36. Cadastro de Séries e Protagonistas (`codigo_engenharia_36.py`)
+Utiliza funções para gerenciar um catálogo de séries de TV e seus respectivos protagonistas, permitindo a inserção de novos dados e a consulta interativa pelo terminal através de um índice numérico.
+
+### 37. Função de Saudação Simples (`codigo_engenharia_37.py`)
+Exemplo prático de subrotina/função elementar em Python (`exibirmensagem`) que apenas imprime um texto fixo de boas-vindas no terminal e demonstra o uso do comando de retorno (`return`).
+
+### 38. Dicionário de Redes Sociais de Celebridades (`codigo_engenharia_38.py`)
+Demonstração de mapeamento de dados estruturados utilizando um dicionário para associar o @ (arroba) de redes sociais ao nome completo de celebridades de forma direta.
