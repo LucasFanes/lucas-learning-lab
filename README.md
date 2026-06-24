@@ -133,3 +133,24 @@ Criação de um modelo de objeto para `Retangulo`. A classe encapsula os atribut
 
 ### 42. Calculadora Trigonométrica com Conversão de Graus (`codigo_engenharia_42.py`)
 Um script interativo que utiliza orientação a objetos para criar uma calculadora especializada em trigonometria. O programa converte ângulos de graus para radianos e disponibiliza um menu dinâmico para calcular Seno, Cosseno e Tangente.
+
+### 43. Menu Interativo para Cálculo de Áreas (`codigo_engenharia_43.py`)
+Uma variação estruturada para cálculo de áreas geométricas utilizando um dicionário de mapeamento de opções. O script valida as entradas do usuário no terminal contra falhas de digitação e executa subrotinas específicas para Círculo, Triângulo e Retângulo.
+
+### 44. Álgebra Linear: Multiplicação de Matriz por Constante (`codigo_engenharia_44.py`)
+Algoritmo de álgebra matricial que gera matrizes aleatórias a partir de intervalos numéricos fornecidos e armazena o resultado em um histórico global. Permite ao usuário aplicar a multiplicação de todos os elementos da matriz por um fator escalar constante.
+
+### 45. Álgebra Linear: Multiplicação entre Duas Matrizes (`codigo_engenharia_45.py`)
+Implementação avançada de multiplicação de matrizes ($A \times B$). O programa valida os requisitos matemáticos de dimensões (colunas da primeira matriz iguais às linhas da segunda) e calcula o produto utilizando loops triplamente encadeados.
+
+### 46. Cadastro Corporativo e Filtro de Funcionários (`codigo_engenharia_46.py`)
+Um sistema de RH iterativo no terminal para cadastro de funcionários (Matrícula, Nome, Sexo, Departamento, Tempo de Serviço e Salário). O programa disponibiliza relatórios de busca avançada baseados em filtros temporais de serviço.
+
+### 47. Análise de RH: Média Salarial por Gênero e Setor (`codigo_engenharia_47.py`)
+Extensão de inteligência de negócios para o sistema de RH. Utiliza funções para isolar e listar colaboradoras do sexo feminino por departamento específico e calcula de forma automática a média salarial dividida por gênero biológico.
+
+### 48. Persistência de Dados em Arquivos JSON (`codigo_engenharia_48.py`)
+Demonstração prática de engenharia de software para persistência de dados. Utiliza a biblioteca nativa `json` para serializar dicionários do Python e salvá-los no disco rígido, além de carregar os dados salvos de volta para a memória do programa.
+
+### 49. Sistema de Avaliação Acadêmica Orientado a Objetos (`codigo_engenharia_49.py`)
+Modelagem de objetos (POO) criando a classe `Disciplina`. O objeto encapsula o nome da matéria e uma lista de notas bimestrais, calculando automaticamente a média aritmética e retornando a situação do aluno (Aprovado, Em Recuperação ou Reprovado).
