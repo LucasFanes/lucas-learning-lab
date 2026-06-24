@@ -121,3 +121,15 @@ Exemplo prático de subrotina/função elementar em Python (`exibirmensagem`) qu
 
 ### 38. Dicionário de Redes Sociais de Celebridades (`codigo_engenharia_38.py`)
 Demonstração de mapeamento de dados estruturados utilizando um dicionário para associar o @ (arroba) de redes sociais ao nome completo de celebridades de forma direta.
+
+### 39. Sistema de Gestão de Contas Bancárias (`codigo_engenharia_39.py`)
+Implementação de Programação Orientada a Objetos (POO) criando classes para `Cliente` e `Conta`. O sistema simula operações bancárias estruturadas como depósitos, saques e exibição de saldo com suporte a múltiplos titulares por conta.
+
+### 40. Gestão de Ingressos de Eventos com Herança (`codigo_engenharia_40.py`)
+Demonstração prática do conceito de herança em POO. Uma classe base `Ingresso` gerencia o valor padrão de um evento, enquanto a classe derivada `IngressoVip` herda seus atributos e adiciona um valor de taxa adicional para camarotes.
+
+### 41. Classe Retângulo com Métodos Matemáticos (`codigo_engenharia_41.py`)
+Criação de um modelo de objeto para `Retangulo`. A classe encapsula os atributos de base e altura e disponibiliza métodos automáticos para calcular e retornar o perímetro e a área da figura geométrica.
+
+### 42. Calculadora Trigonométrica com Conversão de Graus (`codigo_engenharia_42.py`)
+Um script interativo que utiliza orientação a objetos para criar uma calculadora especializada em trigonometria. O programa converte ângulos de graus para radianos e disponibiliza um menu dinâmico para calcular Seno, Cosseno e Tangente.
